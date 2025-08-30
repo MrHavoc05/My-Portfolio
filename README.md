@@ -14,7 +14,7 @@ This site showcases my skills, projects, and experience as a **Full Stack Develo
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Tailwind CSS, Vite, TypeScript, shadcn-ui
-- **Backend:** Node.js, Express (if applicable)  
+- **Backend:** Node.js, Express   
 - **Other Tools:** Git, GitHub, VS Code  
 
 ---
